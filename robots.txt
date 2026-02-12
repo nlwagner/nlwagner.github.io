@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nlwagner.github.io/website//sitemap.xml
+Sitemap: https://nlwagner.github.io/sitemap.xml
