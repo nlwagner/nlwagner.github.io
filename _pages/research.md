@@ -43,6 +43,20 @@ In other words, it assumes the planet these data are measured from is like an on
 This was a great approximation for decades, but as we have started to ask more complicated questions about planetary interiors and data got better, it was realized we need to consider how lateral variations can affect things.
 If you want to know more, please click the link above!
 
+<figure class="research-figure">
+
+  <img
+    src="{{ '/assets/img/research/tidal-tomography/rovira-navarro2025.jpg' | relative_url }}"
+    alt="squishy ganymede"
+  >
+
+  <figcaption>
+    squishy ganymede from
+    {% cite rovira-navarro2025 --file research_refs %}.
+  </figcaption>
+
+</figure>
+
 ---
 
 <h2>
