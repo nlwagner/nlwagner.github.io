@@ -1288,6 +1288,17 @@ ninja-keys::part(ninja-input-wrapper) {
   }
 }
 
+/* --------------------------------------------------------------------------
+   Research theme colors
+   -------------------------------------------------------------------------- */
+
+:root {
+  --theme-tidal: #32678d;
+  --theme-flexure: #8a5a00;
+  --theme-geodynamics: #755478;
+  --theme-mission: #3f6f55;
+}
+
 
 /* --------------------------------------------------------------------------
    Research theme badges
@@ -1324,17 +1335,47 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 .theme-tidal {
-  background-color: #32678d;
+  background-color: var(--theme-tidal);
 }
 
 .theme-flexure {
-  background-color: #8a5a00;
+  background-color: var(--theme-flexure);
 }
 
 .theme-geodynamics {
-  background-color: #755478;
+  background-color: var(--theme-geodynamics);
 }
 
 .theme-mission {
-  background-color: #3f6f55;
+  background-color: var(--theme-mission);
+}
+
+
+
+
+/* Research landing-page theme links */
+
+.research-theme-heading {
+  text-decoration: none !important;
+}
+
+.research-theme-heading:hover {
+  opacity: 0.8;
+  text-decoration: none !important;
+}
+
+.research-link-tidal {
+  color: var(--theme-tidal) !important;
+}
+
+.research-link-flexure {
+  color: var(--theme-flexure) !important;
+}
+
+.research-link-geodynamics {
+  color: var(--theme-geodynamics) !important;
+}
+
+.research-link-mission {
+  color: var(--theme-mission) !important;
 }
