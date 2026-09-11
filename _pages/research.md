@@ -2,8 +2,8 @@
 layout: page
 permalink: /research/
 title: Research
-description: Research in planetary geophysics
-nav: false
+description: Geophysical Research Across the Solar System
+nav: true
 ---
 
 My research uses geophysical observations and models to investigate the
@@ -16,7 +16,7 @@ its internal structure?
 
 [Write your short overview here.]
 
-[Explore Tidal Tomography →]({{ '/research/tidal-tomography/' | relative_url }})
+[Learn more about Tidal Tomography →]({{ '/research/tidal-tomography/' | relative_url }})
 
 ---
 
