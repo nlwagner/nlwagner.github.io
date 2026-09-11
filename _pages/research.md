@@ -126,12 +126,7 @@ If you want to know more, please click the link above!
 
 ## References
 
-{% bibliography
-   --file research_refs
-   --cited
-   --group_by none
-   --template research_ref
-%}
+{% bibliography --file research_refs --cited_in_order --group_by none --template research_ref %}
 
 
 
