@@ -10,11 +10,11 @@ nav: false
 
 ## Understanding planetary lithospheres
 
-[Your text.]
+TBD!
 
 ## Current research
 
-[Your text.]
+TBD!
 
 ## Related publications
 
