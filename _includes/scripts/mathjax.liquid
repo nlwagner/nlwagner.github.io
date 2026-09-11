@@ -5,9 +5,15 @@
       window.MathJax = {
         tex: {
           tags: 'ams',
+          inlineMath: [
+            ['$', '$'],
+            ['\\(', '\\)']
+          ],
+          processEscapes: true,
         },
       };
     </script>
+
     <script
       defer
       type="text/javascript"
@@ -16,6 +22,7 @@
       integrity="{{ site.third_party_libraries.mathjax.integrity.js }}"
       crossorigin="anonymous"
     ></script>
+
     <script
       defer
       src="{{ site.third_party_libraries.polyfill.url.js }}"
