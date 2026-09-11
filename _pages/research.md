@@ -70,7 +70,7 @@ topography tell us about their structure and strength?
   >
     Planetary Geodynamics &amp; Evolution →
   </a>
-</h2>})
+</h2>
 
 How do planetary interiors and lithospheres deform and evolve through time?
 
