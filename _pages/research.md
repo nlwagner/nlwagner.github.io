@@ -46,7 +46,7 @@ If you want to know more, please click the link above!
 <figure class="research-figure">
 
   <img
-    src="{{ '/assets/img/research/tidal-tomography/rovira-navarro2025.jpg' | relative_url }}"
+    src="{{ '/assets/img/tidal-tomography/rovira-navarro2025.jpg' | relative_url }}"
     alt="squishy ganymede"
   >
 
@@ -69,6 +69,21 @@ If you want to know more, please click the link above!
 </h2>
 
 My Ph.D. dissertation was titled "Deformation of the Martian Lithosphere Through Time" so perhaps it's not a surprise that this theme is present in my research portfolio.
+The lithosphere of rocky (and icy, literally) bodies behave a lot like icebergs in the ocean. 
+The density difference between ice and water is slightly negative and thus for any amount of an iceberg sitting above the surface, there is a proptional amount sitting just below the waters supporting it.
+There is an exact mathmetical tool we use called ["isostasy"](https://en.wikipedia.org/wiki/Isostasy) that represents a balance of forces.
+In our iceberg analogy, the pressure across two columns must be equal (called quite creatively equal-pressures isostasy).
+For an iceberg, this means that the entire iceberg thickness ($H$) must produce the same pressure at depth underneath the iceberg as a column of only water sitting right beside it.
+Mathematically, if the density of the ocean is $\rho_{ocean}$, the density of the iceberg is $\rho_{ice}$, the column of water is $W$, then the equivalence between these two columns must exactly be:
+\begin{equation}
+ \rho_{ice}H = \rho_{ocean}W
+\end{equation}
+and the exact amount our little iceberg sticks above the waves (let's call $D$) is simply D = H - W, and thus
+\begin{equation}
+D = H\left(1-\frac{\rho_{\mathrm{ice}}}{\rho_{\mathrm{ocean}}}\right).
+\end{equation}
+
+This derivation is simple on purpose.
 
 
 How do planetary lithospheres support loads, and what can gravity and
