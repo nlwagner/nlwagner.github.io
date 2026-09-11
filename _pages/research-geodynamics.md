@@ -7,15 +7,15 @@ description: Understanding planetary deformation, volcanism, tectonics, and inte
 nav: false
 ---
 
-[Write your opening description here.]
+TBD!
 
 ## How do planets evolve?
 
-[Your text.]
+TBD!
 
 ## Current research
 
-[Your text.]
+TBD!
 
 ## Related publications
 
