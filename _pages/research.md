@@ -50,8 +50,7 @@ If you want to know more, please click the link above!
   >
 
   <figcaption>
-    squishy ganymede from
-    {% cite rovira-navarro2025 --file research_refs %}.
+    Squishy Ganymede from Rovira-Navarro et al. {% cite rovira-navarro2025 --file research_refs -A %}.
   </figcaption>
 
 </figure>
@@ -85,7 +84,7 @@ D = H\left(1-\frac{\rho_{\mathrm{ice}}}{\rho_{\mathrm{ocean}}}\right).
 
 If we assume ice to have a density of 900kg/m$^3$ and water to be 1000kg/m$^3$ then with a total iceberg of 100 meters, then only 10 meters of that entire iceberg will be visable above the surface of the water!
 This is a simple illustrative example, but mountains, valleys, impact craters, and any other variation in topography or density interface on or in a planet or moon also obey this simple idea
-Of course there are ways to make this more complex (see the "equal masses" method of {% cite Hemingway2017 --file research_refs %} or ["Pratt"](https://en.wikipedia.org/wiki/John_Pratt_(archdeacon_of_Calcutta)) isostasy), but the basic principle can allow us to probe the near-subsurface of various planetary bodies by only knowing how topography and gravity vary across their surfaces. 
+Of course there are ways to make this more complex (see the "equal masses" method of Hemingway & Matsuyama {% cite Hemingway2017 --file research_refs -A %} or ["Pratt"](https://en.wikipedia.org/wiki/John_Pratt_(archdeacon_of_Calcutta)) isostasy), but the basic principle can allow us to probe the near-subsurface of various planetary bodies by only knowing how topography and gravity vary across their surfaces. 
 I haven't even discussed where gravity comes into the picture here, but I've rambled enough in this "short" summary of this theme.
 
 If you want to know more, please click the link above!
@@ -120,4 +119,14 @@ If you want to know more, please click the link above!
 What measurements are needed to distinguish between competing models of planetary interiors and geological evolution?
 
 If you want to know more, please click the link above!
+
+
+---
+
+
+## References
+
+{% bibliography --file research_refs --cited %}
+
+
 
