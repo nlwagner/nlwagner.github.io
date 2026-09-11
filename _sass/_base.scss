@@ -1287,3 +1287,54 @@ ninja-keys::part(ninja-input-wrapper) {
     border-bottom-color: var(--global-divider-color);
   }
 }
+
+
+/* --------------------------------------------------------------------------
+   Research theme badges
+   -------------------------------------------------------------------------- */
+
+.research-theme-badges {
+  margin-top: 0.45rem;
+  margin-bottom: 0.45rem;
+}
+
+.research-theme-badge {
+  display: inline-block;
+  margin-right: 0.3rem;
+  margin-bottom: 0.25rem;
+  padding: 0.2rem 0.55rem;
+
+  border-radius: 0.4rem;
+
+  color: white !important;
+  font-size: 0.72rem;
+  font-weight: 500;
+  line-height: 1.35;
+
+  text-decoration: none !important;
+  transition:
+    opacity 0.15s ease,
+    transform 0.15s ease;
+}
+
+.research-theme-badge:hover {
+  color: white !important;
+  opacity: 0.85;
+  transform: translateY(-1px);
+}
+
+.theme-tidal {
+  background-color: #32678d;
+}
+
+.theme-flexure {
+  background-color: #8a5a00;
+}
+
+.theme-geodynamics {
+  background-color: #755478;
+}
+
+.theme-mission {
+  background-color: #3f6f55;
+}
