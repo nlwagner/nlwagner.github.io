@@ -6,7 +6,7 @@ description: Using gravity, topography, and deformation to constrain planetary l
 nav: false
 ---
 
-[Write your opening description here.]
+TBD!
 
 ## Understanding planetary lithospheres
 
