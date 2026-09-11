@@ -181,7 +181,7 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
-
+    {% include research-theme-badges.liquid themes=entry.themes %}
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
