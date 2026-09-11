@@ -37,13 +37,11 @@ Below are short summaries of each of these themes which link to separate pages w
 
 Tidal Tomography is a relatively new technique in the world of geodesy that offers a way to directly use measurements of very precise changes in the surface height and gravity of a planet or moon to infer how its internal structure varies laterally.
 This last phrase is the crux of why this method is revolutionizing our understanding of planetary interiors.
-At its core it aims to answer "How can the changing shape and gravity field of a planetary body reveal its deep internal structure?"
-Traditional geodesy uses data, such as tidal $k_2$ and $h_2$, that assumes a spherically symmetric interior.
-In other words it assumes the planet these data are measured from are like onions and only vary as a function of its radius.
+At its core, it aims to answer "How can the changing shape and gravity field of a planetary body reveal its deep internal structure?"
+Traditional geodesy uses data, such as tidal $k_2$ and $h_2$, that assume a spherically symmetric interior.
+In other words, it assumes the planet these data are measured from is like an onion and only varies as a function of its radius.
 This was a great approximation for decades, but as we have started to ask more complicated questions about planetary interiors and data got better, it was realized we need to consider how lateral variations can affect things.
-
-
-[Write your short overview here.]
+If you want to know more, please click the link above!
 
 ---
 
@@ -56,10 +54,13 @@ This was a great approximation for decades, but as we have started to ask more c
   </a>
 </h2>
 
+My Ph.D. dissertation was titled "Deformation of the Martian Lithosphere Through Time" so perhaps it's not a surprise that this theme is present in my research portfolio.
+
+
 How do planetary lithospheres support loads, and what can gravity and
 topography tell us about their structure and strength?
 
-[Write your short overview here.]
+If you want to know more, please click the link above!
 
 ---
 
@@ -74,7 +75,7 @@ topography tell us about their structure and strength?
 
 How do planetary interiors and lithospheres deform and evolve through time?
 
-[Write your short overview here.]
+If you want to know more, please click the link above!
 
 
 ---
@@ -91,5 +92,5 @@ How do planetary interiors and lithospheres deform and evolve through time?
 What measurements are needed to distinguish between competing models
 of planetary interiors and geological evolution?
 
-[Write your short overview here.]
+If you want to know more, please click the link above!
 
