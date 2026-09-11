@@ -26,7 +26,14 @@ To make sense of all of this, I've partaken in research along four(ish) themes t
 Below are short summaries of each of these themes which link to separate pages where I ramble more about work colleagues and I have done across my career. 
 
 
-## [Tidal Tomography (click here to learn more)]({{ '/research/tidal-tomography/' | relative_url }})
+<h2>
+  <a
+    class="research-theme-heading research-link-tidal"
+    href="{{ '/research/tidal-tomography/' | relative_url }}"
+  >
+    Tidal Tomography →
+  </a>
+</h2>
 
 Tidal Tomography is a relatively new technique in the world of geodesy that offers a way to directly use measurements of very precise changes in the surface height and gravity of a planet or moon to infer how its internal structure varies laterally.
 This last phrase is the crux of why this method is revolutionizing our understanding of planetary interiors.
@@ -40,7 +47,14 @@ This was a great approximation for decades, but as we have started to ask more c
 
 ---
 
-## [Lithospheric Flexure & Gravity (click here to learn more)]({{ '/research/flexure-gravity/' | relative_url }})
+<h2>
+  <a
+    class="research-theme-heading research-link-flexure"
+    href="{{ '/research/flexure-gravity/' | relative_url }}"
+  >
+    Lithospheric Flexure &amp; Gravity →
+  </a>
+</h2>
 
 How do planetary lithospheres support loads, and what can gravity and
 topography tell us about their structure and strength?
@@ -49,7 +63,14 @@ topography tell us about their structure and strength?
 
 ---
 
-## [Planetary Geodynamics & Evolution (click here to learn more)]({{ '/research/geodynamics/' | relative_url }})
+<h2>
+  <a
+    class="research-theme-heading research-link-geodynamics"
+    href="{{ '/research/geodynamics/' | relative_url }}"
+  >
+    Planetary Geodynamics &amp; Evolution →
+  </a>
+</h2>})
 
 How do planetary interiors and lithospheres deform and evolve through time?
 
@@ -58,7 +79,14 @@ How do planetary interiors and lithospheres deform and evolve through time?
 
 ---
 
-## [Mission Science & Development (click here to learn more)]({{ '/research/mission-science/' | relative_url }})
+<h2>
+  <a
+    class="research-theme-heading research-link-mission"
+    href="{{ '/research/mission-science/' | relative_url }}"
+  >
+    Mission Science &amp; Development →
+  </a>
+</h2>
 
 What measurements are needed to distinguish between competing models
 of planetary interiors and geological evolution?
