@@ -6,15 +6,15 @@ description: Probing planetary interiors through tidal deformation
 nav: false
 ---
 
-[Write your opening description here.]
+TBD!
 
 ## Why tides?
 
-[Write your explanation here.]
+TBD!
 
 ## Current research
 
-[Discuss your current projects here.]
+TBD!
 
 ## Related publications
 
