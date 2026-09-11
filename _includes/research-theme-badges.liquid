@@ -1,0 +1,45 @@
+{% if include.themes %}
+  {% assign research_themes = include.themes | split: "," %}
+
+  <div class="research-theme-badges">
+    {% for theme in research_themes %}
+      {% assign theme_slug = theme | strip %}
+
+      {% case theme_slug %}
+
+        {% when "tidal" %}
+          <a
+            href="{{ '/research/tidal-tomography/' | relative_url }}"
+            class="research-theme-badge theme-tidal"
+          >
+            Tidal Tomography
+          </a>
+
+        {% when "flexure" %}
+          <a
+            href="{{ '/research/flexure-gravity/' | relative_url }}"
+            class="research-theme-badge theme-flexure"
+          >
+            Lithospheric Flexure &amp; Gravity
+          </a>
+
+        {% when "geodynamics" %}
+          <a
+            href="{{ '/research/geodynamics/' | relative_url }}"
+            class="research-theme-badge theme-geodynamics"
+          >
+            Planetary Geodynamics &amp; Evolution
+          </a>
+
+        {% when "mission" %}
+          <a
+            href="{{ '/research/mission-science/' | relative_url }}"
+            class="research-theme-badge theme-mission"
+          >
+            Mission Science &amp; Development
+          </a>
+
+      {% endcase %}
+    {% endfor %}
+  </div>
+{% endif %}
