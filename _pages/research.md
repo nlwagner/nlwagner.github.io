@@ -68,25 +68,25 @@ If you want to know more, please click the link above!
 </h2>
 
 My Ph.D. dissertation was titled "Deformation of the Martian Lithosphere Through Time" so perhaps it's not a surprise that this theme is present in my research portfolio.
-The lithosphere of rocky (and icy, literally) bodies behave a lot like icebergs in the ocean. 
-The density difference between ice and water is slightly negative and thus for any amount of an iceberg sitting above the surface, there is a proptional amount sitting just below the waters supporting it.
-There is an exact mathmetical tool we use called ["isostasy"](https://en.wikipedia.org/wiki/Isostasy) that represents a balance of forces.
-In our iceberg analogy, the pressure across two columns must be equal (called quite creatively equal-pressures isostasy).
+We can distill this entire theme into the question: "How do planetary lithospheres support loads, and what can gravity and topography tell us about their structure and strength?"
+The lithosphere of rocky (and icy, literally) bodies behaves a lot like icebergs in the ocean. 
+The density difference between ice and water is slightly negative, and thus for any amount of an iceberg sitting above the surface, there is a proportional amount sitting just below the water supporting it.
+There is a mathematical tool we use called ["isostasy"](https://en.wikipedia.org/wiki/Isostasy) that represents a balance of forces.
+In our iceberg analogy, the pressure across two columns must be equal (called quite creatively equal-pressures or ["Airy"](https://en.wikipedia.org/wiki/George_Biddell_Airy) isostasy).
 For an iceberg, this means that the entire iceberg thickness ($H$) must produce the same pressure at depth underneath the iceberg as a column of only water sitting right beside it.
-Mathematically, if the density of the ocean is $\rho_{ocean}$, the density of the iceberg is $\rho_{ice}$, the column of water is $W$, then the equivalence between these two columns must exactly be:
+Mathematically, if the density of the ocean is $\rho_{\mathrm{ocean}}$, the density of the iceberg is $\rho_{\mathrm{ice}}$, and the column of water is $W$, then the equivalence between these two columns must be exactly:
 \begin{equation}
  \rho_{ice}H = \rho_{ocean}W
 \end{equation}
-and the exact amount our little iceberg sticks above the waves (let's call $D$) is simply D = H - W, and thus
+and the exact amount our little iceberg sticks above the waves (let's call $D$) is simply $D = H - W$, and thus
 \begin{equation}
 D = H\left(1-\frac{\rho_{\mathrm{ice}}}{\rho_{\mathrm{ocean}}}\right).
 \end{equation}
 
-This derivation is simple on purpose.
-
-
-How do planetary lithospheres support loads, and what can gravity and
-topography tell us about their structure and strength?
+If we assume ice to have a density of 900kg/m$^3$ and water to be 1000kg/m$^3$ then with a total iceberg of 100 meters, then only 10 meters of that entire iceberg will be visable above the surface of the water!
+This is a simple illustrative example, but mountains, valleys, impact craters, and any other variation in topography or density interface on or in a planet or moon also obey this simple idea
+Of course there are ways to make this more complex (see the "equal masses" method of Hemingway & Matsuyama (2017) or ["Pratt"](https://en.wikipedia.org/wiki/John_Pratt_(archdeacon_of_Calcutta)) isostasy), but the basic principle can allow us to probe the near-subsurface of various planetary bodies by only knowing how topography and gravity vary across their surfaces. 
+I haven't even discussed where gravity comes into the picture here, but I've rambled enough in this "short" summary of this theme.
 
 If you want to know more, please click the link above!
 
@@ -117,8 +117,7 @@ If you want to know more, please click the link above!
   </a>
 </h2>
 
-What measurements are needed to distinguish between competing models
-of planetary interiors and geological evolution?
+What measurements are needed to distinguish between competing models of planetary interiors and geological evolution?
 
 If you want to know more, please click the link above!
 
