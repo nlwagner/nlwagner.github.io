@@ -125,6 +125,9 @@ There are some analytical expressions to connect the amount the volcano is compe
 All else held equal planets cool over time and thus determine the local surface heat flow when topography, our volcano in this instance, formed.
 This idea forms a very crude approximation of the age of certain features, but its been quite successful in studying the spatial and temporal thermal evolution of Mars (see [McGovern et al. (2002)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2002JE001854)).
 
+If we go deeper and think about how using tidal tomography can constrain mantle variations, we can directly interpret inferred density and rigidity variations in terms of temperature and composition.
+I've been using equation of state modeling to connect these two ideas and give us some sense on what is the current state of interior bodies, and what the state of the planet was in order to get to where we are now.
+
 If you want to know more, please click the link above!
 
 
