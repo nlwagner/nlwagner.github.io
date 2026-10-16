@@ -150,7 +150,7 @@ If you want to know more, please click the link above!
 
 ---
 
-{% nocite rovira-navarro2025 Hemingway2017 --file research_refs %}
+{% nocite rovira-navarro2025 Hemingway2017 McGovern2002 --file research_refs %}
 ## References
 
 {% bibliography --file research_refs --cited_in_order --group_by none --template research_ref %}
