@@ -60,6 +60,7 @@ If you want to know more, please click the link above!
     >
       Rovira-Navarro et al. (2025)
     </a>.
+    I had nothing to do with creating this figure (or publication), but it's a great illustrative example of the mechanism behind tidal tomography: mode coupling.
   </figcaption>
 
 </figure>
@@ -109,7 +110,20 @@ If you want to know more, please click the link above!
   </a>
 </h2>
 
-How do planetary interiors and lithospheres deform and evolve through time?
+My research concerns itself mainly with modern day observations of the state of the interior of planetary bodies.
+Obviously this begs the question: How did we get here?
+Furthermore, how do planetary interiors and lithospheres deform and evolve through time?
+A long time ago in a galaxy not far away our solar system started as a primordial slurry of hot dust and gas that coalesced into the planets we see today.
+Between that initial formation and today, over 4 billion years of stuff happened.
+By understanding this stuff, we can peak at what the initial conditions of our solar system might have been.
+
+Most of the methods involved with these ideas involve large geodynamic simulations, which I do not use directly.
+This is an area I'd like to learn more about, but for now I use simplied ideas about how heat dissipates through time, how topography is preserved (or erased), and how this stuff may obscure early solar system processes in the present.
+A short example of this concerns itself with determining how topography is "frozen in".
+When, for instance, a volcano forms, the state of the lithosphere determines how this volcano is compensated at depth, directly related to the previous ideas about flexure mentioned earlier.
+There are some analytical expressions to connect the amount the volcano is compensated, through the elastic thickness of the lithosphere, to the heat flow through the surface of the planet.
+All else held equal planets cool over time and thus determine the local surface heat flow when topography, our volcano in this instance, formed.
+This idea forms a very crude approximation of the age of certain features, but its been quite successful in studying the spatial and temporal thermal evolution of Mars (see [McGovern et al. (2002)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2002JE001854)).
 
 If you want to know more, please click the link above!
 
@@ -125,7 +139,11 @@ If you want to know more, please click the link above!
   </a>
 </h2>
 
-What measurements are needed to distinguish between competing models of planetary interiors and geological evolution?
+
+Data collection in planetary science tends to take the form of a stair step pattern, because most of our data comes in the form of planetary missions that only happen every X years.
+Thus, planetary mission design is essential for designing needed measurements to answer outstanding scientific questions.
+In this theme it is essential to define measurements that are needed to distinguish between competing models of planetary interiors and geological evolution.
+My first paper in my Ph.D. was born from discussions about what we could learn about the interior of Mars if we had a certain measurement, and I went on to be involved with the [Planetary Science Summer School hosted at the Jet Propulsion Laboratory](https://www.jpl.nasa.gov/edu/internships/apply/nasa-science-mission-design-schools/), which taught me about how to design a mission, but I think also made me a sharper scientist in my ability to propose and investigate interesting scientific questions.
 
 If you want to know more, please click the link above!
 
