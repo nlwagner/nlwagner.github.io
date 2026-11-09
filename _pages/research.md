@@ -110,26 +110,23 @@ If you want to know more, please click the link above!
   </a>
 </h2>
 
-My research concerns itself mainly with modern day observations of the state of the interior of planetary bodies.
-Obviously this begs the question: How did we get here?
-Furthermore, how do planetary interiors and lithospheres deform and evolve through time?
-A long time ago in a galaxy not far away our solar system started as a primordial slurry of hot dust and gas that coalesced into the planets we see today.
-Between that initial formation and today, over 4 billion years of stuff happened.
-By understanding this stuff, we can peak at what the initial conditions of our solar system might have been.
+My research concerns itself mainly with modern-day observations of the state of the interior of planetary bodies.
+Obviously, this begs the question: How did we get here?
+Furthermore, broadly, how do planetary interiors and lithospheres deform and evolve through time?
+A long time ago, in a galaxy not far away, our solar system started as a primordial slurry of hot dust and gas that coalesced into the planets we see today.
+Between that initial formation and today, over 4 billion years of "stuff" happened.
+By understanding this "stuff", we can peek at what the initial conditions of our solar system might have been and answer why each planet/moon we see is so unique, including Earth.
 
 Most of the methods involved with these ideas involve large geodynamic simulations, which I do not use directly.
-This is an area I'd like to learn more about, but for now I use simplied ideas about how heat dissipates through time, how topography is preserved (or erased), and how this stuff may obscure early solar system processes in the present.
+This is an area I'd like to learn more about, but for now I use simplified ideas about how heat dissipates through time, how topography is preserved (or erased), and how this "stuff" may obscure early solar system processes in the present.
 A short example of this concerns itself with determining how topography is "frozen in".
 When, for instance, a volcano forms, the state of the lithosphere determines how this volcano is compensated at depth, directly related to the previous ideas about flexure mentioned earlier.
 There are some analytical expressions to connect the amount the volcano is compensated, through the elastic thickness of the lithosphere, to the heat flow through the surface of the planet.
-All else held equal planets cool over time and thus determine the local surface heat flow when topography, our volcano in this instance, formed.
-This idea forms a very crude approximation of the age of certain features, but its been quite successful in studying the spatial and temporal thermal evolution of Mars (see [McGovern et al. (2002)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2002JE001854)).
+All else held equal, planets cool over time and thus determine the local surface heat flow when topography, our volcano in this instance, formed.
+This idea helps us generate an approximation of the age of certain features, and it's been quite successful in studying the spatial and temporal thermal evolution of Mars (see [McGovern et al. (2002)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2002JE001854)).
 
 If we go deeper and think about how using tidal tomography can constrain mantle variations, we can directly interpret inferred density and rigidity variations in terms of temperature and composition.
-I've been using equation of state modeling to connect these two ideas and give us some sense on what is the current state of interior bodies, and what the state of the planet was in order to get to where we are now.
-
-If you want to know more, please click the link above!
-
+I've been using equation of state modeling to connect these two ideas and give us some sense of what the current state of interior bodies is, and what the state of the planet was in order to get to where we are now.
 
 ---
 
@@ -143,12 +140,12 @@ If you want to know more, please click the link above!
 </h2>
 
 
-Data collection in planetary science tends to take the form of a stair step pattern, because most of our data comes in the form of planetary missions that only happen every X years.
-Thus, planetary mission design is essential for designing needed measurements to answer outstanding scientific questions.
-In this theme it is essential to define measurements that are needed to distinguish between competing models of planetary interiors and geological evolution.
-My first paper in my Ph.D. was born from discussions about what we could learn about the interior of Mars if we had a certain measurement, and I went on to be involved with the [Planetary Science Summer School hosted at the Jet Propulsion Laboratory](https://www.jpl.nasa.gov/edu/internships/apply/nasa-science-mission-design-schools/), which taught me about how to design a mission, but I think also made me a sharper scientist in my ability to propose and investigate interesting scientific questions.
+Data collection in planetary science tends to take the form of a stair-step pattern, because most of our data comes in the form of planetary missions that only happen every so many years.
+Thus, planetary mission design is essential for planning future measurements to answer outstanding scientific questions.
+In this theme, and related to my research interests, it is essential to define measurements that are needed to distinguish between competing models of planetary interiors and geological evolution.
+My first paper in my Ph.D. was born from discussions about what we could learn about the interior of Mars if we had a certain measurement, and I went on to be involved with the [Planetary Science Summer School hosted at the Jet Propulsion Laboratory](https://www.jpl.nasa.gov/edu/internships/apply/nasa-science-mission-design-schools/).
+Broadly, this summer program taught me the inner workings of how to design a mission, but I think it also made me a more thorough scientist in my ability to propose and investigate interesting scientific questions.
 
-If you want to know more, please click the link above!
 
 
 ---
