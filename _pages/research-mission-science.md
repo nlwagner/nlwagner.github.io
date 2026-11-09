@@ -15,7 +15,7 @@ In NASA jargon, this mapping is done through the Science Traceability Matrix (ST
 
 In my Ph.D. I was fortunate enough to be exposed to planetary mission design in two ways. 
 The first was through a Keck Institute for Space Studies (KISS) workshop 
-The report for this workshop is publically available through the (following link)[https://kiss.resources.caltech.edu/uploads/2026/09/final-reports-geodesy-final-report-1.pdf].
+The report for this workshop is publically available through the [following link](https://kiss.resources.caltech.edu/uploads/2026/09/final-reports-geodesy-final-report-1.pdf).
 
 ## Current mission work
 
