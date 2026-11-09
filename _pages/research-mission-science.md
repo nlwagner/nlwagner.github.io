@@ -14,8 +14,10 @@ Therefore, a lot of our work in planetary science is outlining data collection r
 In NASA jargon, this mapping is done through the Science Traceability Matrix (STM) and underlies every planetary science mission.
 
 In my Ph.D. I was fortunate enough to be exposed to planetary mission design in two ways. 
-The first was through a Keck Institute for Space Studies (KISS) workshop 
+The first was through a Keck Institute for Space Studies (KISS) workshop.
 The report for this workshop is publically available through the [following link](https://kiss.resources.caltech.edu/uploads/2026/09/final-reports-geodesy-final-report-1.pdf).
+The second was through the Jet Propsulon Laboratories Planetary Science Summer School (PSSS).
+We ended up publishing our mission design efforts to construct an orbiter that would inverstigate the surface and interior of Titan at [Seltzer et al. (2025)](https://iopscience.iop.org/article/10.3847/PSJ/ad973e/meta).
 
 ## Current mission work
 
