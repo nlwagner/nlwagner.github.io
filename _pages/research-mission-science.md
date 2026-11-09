@@ -14,7 +14,8 @@ TBD!
 
 ## Current mission work
 
-TBD!
+I'm not directly involved with any missions at the present, but I'm always thinking about how, as we advance our methodologies, what new and interesting measurements could be made to answer outstanding scientific questions!
+If you have any ideas related to my work, don't hesitate to reach out!
 
 ## Related publications
 
