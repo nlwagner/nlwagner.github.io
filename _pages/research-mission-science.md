@@ -12,6 +12,7 @@ Planetary science is one of the more unique scientific fields in that data acqui
 I myself cannot travel to the Moon or Mars to collect the data I might need to answer interesting questions.
 Therefore, a lot of our work in planetary science is outlining data collection requirements and mapping that to how we can answer certain hypotheses.
 In NASA jargon, this mapping is done through the Science Traceability Matrix (STM) and underlies every planetary science mission.
+In short, an STM connects broad scale hypotheses (such as, what formed the Martian dichotomy, what is the size of Titan's silicate core, etc) to measurement requirements on spectrometers, radar, radio science, etc in order to answer these larger questions.
 
 In my Ph.D. I was fortunate enough to be exposed to planetary mission design in two ways. 
 The first was through a Keck Institute for Space Studies (KISS) workshop.
